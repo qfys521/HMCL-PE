@@ -87,7 +87,7 @@ along with HMCL-PE.  If not, see <https://www.gnu.org/licenses/>.
 - [forge-install-bootstrapper](https://github.com/bangbang93/forge-install-bootstrapper)
 
 - [TouchInjector](https://github.com/Tungstend/TouchInjector)
-
+ 
 <h1 align="center">Sponsor</h1>
 
 <div align="center">
